@@ -60,4 +60,6 @@ Time-series plots to track the progression of total_cases and total_vaccinations
 
 A bar chart to compare the latest case counts across the selected countries.
 
+A choropleth map to visualize global COVID-19 case density.
+
 The analysis provides a clear, visual report that can be easily understood and shared with others.
